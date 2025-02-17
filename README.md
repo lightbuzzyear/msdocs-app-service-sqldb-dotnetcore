@@ -1,3 +1,6 @@
+
+tutorial here:
+https://learn.microsoft.com/en-us/azure/app-service/tutorial-dotnetcore-sqldb-app?tabs=copilot&pivots=azure-portal
 ---
 languages:
 - csharp
